@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550410766 source:c:\users\felipe\documents\git\programacaoestruturadac\01\03comentarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
