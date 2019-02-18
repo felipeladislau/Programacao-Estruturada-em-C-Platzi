@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550493337 source:c:\users\felipe\documents\git\programacao-estruturada-em-c-platzi\programacao-estruturada-em-c-platzi\02\03lendocaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+
