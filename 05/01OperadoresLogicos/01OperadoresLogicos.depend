@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550511579 source:c:\users\felipe\documents\git\programacao-estruturada-em-c-platzi\programacao-estruturada-em-c-platzi\05\01operadoreslogicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
