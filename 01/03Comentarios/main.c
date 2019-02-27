@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include<conio.h>
+#include <conio.h>
 
 /*
- *  Projeto: Aplicação para leitura de notas escolares
+ *  Projeto: Aplicaï¿½ï¿½o para leitura de notas escolares
  *  Desenvolvedor: Felipe Ladislau
- *  Projeto do curso de Programação estruturada Platzi
+ *  Projeto do curso de Programaï¿½ï¿½o estruturada Platzi
 */
 
-// Função principal ???
+// Funï¿½ï¿½o principal ???
 int main()
 {
-    // Declaramos as variaveis, o nome, as 3 notas e o espaço da média.
+    // Declaramos as variaveis, o nome, as 3 notas e o espaï¿½o da mï¿½dia.
     char nome[60];
     float nota1, nota2, nota3, media;
 
@@ -27,7 +27,7 @@ int main()
     scanf("%f", &nota2);
     scanf("%f", &nota3);
 
-    // Aqui calculamos a média, usamos parenteses pela precedência de operadores.
+    // Aqui calculamos a mï¿½dia, usamos parenteses pela precedï¿½ncia de operadores.
     media = (nota1 + nota2 + nota3) / 3;
 
     // Exibe o resultado final...

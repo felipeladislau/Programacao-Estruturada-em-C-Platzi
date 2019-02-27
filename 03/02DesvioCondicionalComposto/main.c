@@ -4,20 +4,20 @@
 /*
  *  Software de desvio condicional composto
  *  Desenvolvido por Felipe Ladislau
- *  Projeto do curso de programação estruturada Platzi
+ *  Projeto do curso de programaï¿½ï¿½o estruturada Platzi
 */
 
 int main()
 {
 
-    // Declaração de variáveis....
+    // Declaraï¿½ï¿½o de variï¿½veis....
     int num1 = 3;
     int num2 = 5;
     int num3 = 6;
     int num4 = 8;
 
 
-    // Instrução com IF e ELSE IF
+    // Instruï¿½ï¿½o com IF e ELSE IF
     if(num1 > 5){
         printf("O numero 1 e maior que cinco... \n\n");
     }else if(num2 > 5){
@@ -31,7 +31,7 @@ int main()
     }
 
 
-    // Instrução com múltiplos IF
+    // Instruï¿½ï¿½o com mï¿½ltiplos IF
     if(num1 > 5){
         printf("O numero 1 e maior que cinco... \n\n");
     }
@@ -46,7 +46,16 @@ int main()
     }
 
 
-    // Instrução com SWITCH...
+
+     // Estrutura de decisï¿½o encadeada...
+    if(num1 > 0){
+        if(num2 > 0){
+            printf("Os numeros sao maiores que zero... \n\n");
+        }
+        printf("Apenas o numero um e maior que zero... \n\n");
+    }
+
+    // Instruï¿½ï¿½o com SWITCH...
     switch(num1){
 
         case 1:
